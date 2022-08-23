@@ -1,2 +1,4 @@
 # NisanursJourneyWiki
-articles, youtube video links
+## Articles
+1. https://github.com/NisanurBulut/NisanursJourneyWiki
+
