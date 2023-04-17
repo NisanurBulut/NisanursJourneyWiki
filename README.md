@@ -1,4 +1,5 @@
 # NisanursJourneyWiki
-## Articles
-1. https://github.com/NisanurBulut/NisanursJourneyWiki
 
+![Coursera_aws_cloud_practitioner_essentials](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/Coursera_aws_cloud_practitioner_essentials.png)
+
+![exam_prep_aws_certified_cloud_practitioner_foundations](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/exam_prep_aws_certified_cloud_practitioner_foundations.png)
