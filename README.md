@@ -12,6 +12,12 @@
 
 <hr/>
 
+[📹👉 💻 🥇 Exam Prep: AWS Certified Cloud Practitioner (CLF-C01) 3 hours](https://explore.skillbuilder.aws/learn/course/9449/exam-prep-aws-certified-cloud-practitioner-clf-c01)
+
+[Exam Prep: AWS Certified Cloud Practitioner (CLF-C01) 3 HOURS](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/exam_prep_aws_certified_cloud_practitioner_CLF_C01.png)
+
+<hr/>
+
 [📹👉 💻 🥇 Exam Prep: AWS Certified Cloud Practitioner Foundations 9 hours (approximately)](https://www.coursera.org/learn/cloud-practitioner-exam-prep)
 
 ![exam_prep_aws_certified_cloud_practitioner_foundations](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/exam_prep_aws_certified_cloud_practitioner_foundations.png)
@@ -21,6 +27,9 @@
 [📹👉 💻 🥇 [NEW] Ultimate AWS Certified Cloud Practitioner - 2023 15 hours (approximately)](https://www.udemy.com/share/103aFP3@58dnwSzJ7Vp1ydvYxVLY8p9FwdtL7_uJOUOXUxZG4t7frXw833z6l-uX20m88Obk/)
 
 ![Ultimate AWS Certified Cloud Practitioner](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/udemy-certificate_[NEW]_Ultimate_AWS_Certified_Cloud_Practitioner_2023.jpg)
+
+<hr/>
+
 
 ## Cloud Practitioner Practice Exam Links
 
