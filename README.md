@@ -15,3 +15,9 @@
 [Exam Prep: AWS Certified Cloud Practitioner Foundations 9 hours (approximately)](https://www.coursera.org/learn/cloud-practitioner-exam-prep)
 
 ![exam_prep_aws_certified_cloud_practitioner_foundations](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/exam_prep_aws_certified_cloud_practitioner_foundations.png)
+
+<hr/>
+
+[[NEW] Ultimate AWS Certified Cloud Practitioner - 2023 15 hours (approximately)](https://www.udemy.com/share/103aFP3@58dnwSzJ7Vp1ydvYxVLY8p9FwdtL7_uJOUOXUxZG4t7frXw833z6l-uX20m88Obk/)
+
+![Ultimate AWS Certified Cloud Practitioner](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/udemy-certificate_[NEW]_Ultimate_AWS_Certified_Cloud_Practitioner_2023.jpg)
