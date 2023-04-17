@@ -22,7 +22,7 @@
 
 ![Ultimate AWS Certified Cloud Practitioner](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/udemy-certificate_[NEW]_Ultimate_AWS_Certified_Cloud_Practitioner_2023.jpg)
 
-## Practice Exam Links
+## Cloud Practitioner Practice Exam Links
 
 * 🖊📜⏰ [6 Practice Exams | AWS Certified Cloud Practitioner CLF-C01 390 questions](https://www.udemy.com/share/103aFZ3@20NlYOGR8lvcXcwk7G46XvLlHNrbX-PpCHwK4bmuMDq9h40fS0Q_5kWv6GkcMhMO/)
 * 🖊📜⏰ [6 Practice Tests | AWS Certified Cloud Practitioner [CLF-C01] + Exam Simulator + Explanations + AWS Cheat Sheets | 2023](https://www.udemy.com/share/101Xl63@tC6AuCcOvXaZqJKUQv9B7Pmwsbk-fNXszhZVWLySGbG_Ux61A9xrPo-2VX3zTDrj/)
