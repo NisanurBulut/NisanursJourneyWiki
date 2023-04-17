@@ -14,7 +14,7 @@
 
 [📹👉 💻 🥇 Exam Prep: AWS Certified Cloud Practitioner (CLF-C01) 3 hours](https://explore.skillbuilder.aws/learn/course/9449/exam-prep-aws-certified-cloud-practitioner-clf-c01)
 
-[Exam Prep: AWS Certified Cloud Practitioner (CLF-C01) 3 HOURS](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/exam_prep_aws_certified_cloud_practitioner_CLF_C01.png)
+![Exam Prep: AWS Certified Cloud Practitioner (CLF-C01)](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/exam_prep_aws_certified_cloud_practitioner_CLF_C01.png)
 
 <hr/>
 
