@@ -1,6 +1,6 @@
 # NisanursJourneyWiki ☁ ☁ ☁ 🥇🥇🥇
 
-![https://www.credly.com/badges/fd9dfe46-2b4a-4d5b-92aa-22a118f41af8]([https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/practitioner.png](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/aws-certified-cloud-practitioner.png))
+![https://www.credly.com/badges/fd9dfe46-2b4a-4d5b-92aa-22a118f41af8](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/aws-certified-cloud-practitioner.png))
 
 [📹👉 💻 🥇 AWS Cloud Practitioner Essentials 6 hours](https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials)
 
