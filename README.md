@@ -44,6 +44,13 @@
 * 🖊📜⏰ [6 Practice Tests | AWS Certified Cloud Practitioner [CLF-C01] + Exam Simulator + Explanations + AWS Cheat Sheets | 2023](https://www.udemy.com/share/101Xl63@tC6AuCcOvXaZqJKUQv9B7Pmwsbk-fNXszhZVWLySGbG_Ux61A9xrPo-2VX3zTDrj/)
 
 
-## Youtube Training Links
+## Youtube Training Links 💡
 
-* 💡[freeCodeCamp.org-Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo)
+<ol type="1">
+<li>[freeCodeCamp.org-Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo)</li>
+<li> [AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial](https://youtu.be/g2JOHLHh4rI)</li>
+</ol>
+
+<hr/>
+
+![What For](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/others/what_for.jpg)
