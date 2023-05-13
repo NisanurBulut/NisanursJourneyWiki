@@ -38,6 +38,14 @@
 
 <hr/>
 
+[📹👉 💻 🥇 Create your first custom VPC and its components in AWS](https://www.coursera.org/projects/create-your-first-custom-vpc-and-its-components-in-aws)
+
+![Create your first custom VPC and its components in AWS](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/create_your_fisr_custom_vpc_and_its_components_in_AWS.pdf)
+
+![Implemented Project](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/others/Architecture_Design.png.png)
+
+<hr/>
+
 ## Cloud Practitioner Practice Exam Links
 
 * 🖊📜⏰ [6 Practice Exams | AWS Certified Cloud Practitioner CLF-C01 390 questions](https://www.udemy.com/share/103aFZ3@20NlYOGR8lvcXcwk7G46XvLlHNrbX-PpCHwK4bmuMDq9h40fS0Q_5kWv6GkcMhMO/)
