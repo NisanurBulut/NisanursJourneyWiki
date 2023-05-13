@@ -42,6 +42,8 @@
 
 ![Create your first custom VPC and its components in AWS](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/create_your_first_custom_vpc_and_its_components_in_AWS.png)
 
+<h1>Implemented Project Architecture</h1>
+
 ![Implemented Project](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/others/Architecture_Design.png)
 
 <hr/>
