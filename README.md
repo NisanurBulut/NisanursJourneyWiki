@@ -32,8 +32,18 @@
 
 <hr/>
 
+[📹👉 💻 🥇 Terraform Basics: Automate Provisioning of AWS EC2 Instances 1.5 hours (approximately)](https://www.coursera.org/learn/terraform-devops-aws-cloud-iac-ec2/home/info)
+
+![Terraform Basics: Automate Provisioning of AWS EC2 Instances](https://github.com/NisanurBulut/NisanursJourneyWiki/blob/master/certifications/Coursera_Terraform_Basics_5LWKNG3GGEE4.png)
+
+<hr/>
 
 ## Cloud Practitioner Practice Exam Links
 
 * 🖊📜⏰ [6 Practice Exams | AWS Certified Cloud Practitioner CLF-C01 390 questions](https://www.udemy.com/share/103aFZ3@20NlYOGR8lvcXcwk7G46XvLlHNrbX-PpCHwK4bmuMDq9h40fS0Q_5kWv6GkcMhMO/)
 * 🖊📜⏰ [6 Practice Tests | AWS Certified Cloud Practitioner [CLF-C01] + Exam Simulator + Explanations + AWS Cheat Sheets | 2023](https://www.udemy.com/share/101Xl63@tC6AuCcOvXaZqJKUQv9B7Pmwsbk-fNXszhZVWLySGbG_Ux61A9xrPo-2VX3zTDrj/)
+
+
+## Youtube Training Links
+
+* 💡[freeCodeCamp.org-Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo)
